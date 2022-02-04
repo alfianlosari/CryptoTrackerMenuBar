@@ -11,6 +11,7 @@ The app has several main features:
 3. Automatic Reconnect mechanism in case of internentconnection lost.
 4. Popover view to select different predefined Coin Types (Bitcoin, Ethereum, Monero, Litecoin, Dogecoin).
 5. Shortcut Link to open the associated coin details in web browser
+6. Use Combine Publisher to subscribe to the CoinCapService from the View Model layer, react to new data, and update UI through single pipeline.
 
 ## Getting Started
 - Download Xcode 13 from App Store.
